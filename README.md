@@ -38,6 +38,8 @@ python3.7 protect.py script_1.py out_1.py -p 123456
 3. As the result a new file `out_1.py` will appear:
 
 ```python
+# out_1.py
+
 import sys
 
 import base64
